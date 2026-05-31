@@ -37,7 +37,7 @@ L'application n'est actuellement pas déployée en ligne. Elle fonctionne locale
 Un déploiement est possible avec **EAS Build** (Expo Application Services) pour générer un fichier APK (Android) ou IPA (iOS).
 
    7. Identifiants de test
-- Adresse e-mail** : `demo@carrent.com`
+- Adresse e-mail : `demo@carrent.com`
 - **Mot de passe** : `123456`
 
    8. Livrables antérieurs
