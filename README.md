@@ -6,7 +6,7 @@ CarRent est une application mobile de location de voitures développée avec Rea
 
    2. Membres de l'équipe
 - **IYMANE BOLAKHRIF** – Scrum Master : Structure GitHub, estimation COCOMO, authentification Firebase.
-- **HAJAR OUSAID** – Product Owner : Diagramme de Gantt, rédaction du README, conventions des commits.
+- **HAJAR OUSAID – Product Owner : Diagramme de Gantt, rédaction du README, conventions des commits.
 - **KHAOULA EL MAATAOUI** – Développeuse : Mini-CDC, tests unitaires, gestion des réservations.
 - **ACHRAF ABBADI** – Développeur : WBS, déploiement, configuration de la base de données.
 
