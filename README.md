@@ -38,7 +38,7 @@ Un déploiement est possible avec **EAS Build** (Expo Application Services) pour
 
    7. Identifiants de test
 - Adresse e-mail : `demo@carrent.com`
-- *Mot de passe** : `123456`
+- Mot de passe** : `123456`
 
    8. Livrables antérieurs
 - [Cahier des Charges](docs/CDC.pdf)
