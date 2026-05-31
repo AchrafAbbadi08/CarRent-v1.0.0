@@ -11,7 +11,7 @@ CarRent est une application mobile de location de voitures développée avec Rea
 - ACHRAF ABBADI – Développeur : WBS, déploiement, configuration de la base de données.
 
    3. Technologies utilisées
-- **Framework mobile** : React Native (Expo)
+- Framework mobile: React Native (Expo)
 - **Backend** : Firebase (Authentication, Realtime Database, Storage)
 - **Langage** : JavaScript
 
