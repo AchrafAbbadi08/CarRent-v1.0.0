@@ -49,3 +49,7 @@ Un déploiement est possible avec **EAS Build** (Expo Application Services) pour
 Pour lancer les émulateurs Firebase localement :
 ```bash
 docker-compose up
+"" 
+"## 11. Remerciements" 
+"- Pr. Sanae ELIMOUNI pour l'encadrement" 
+"- Toute l'�quipe CarRent" 
